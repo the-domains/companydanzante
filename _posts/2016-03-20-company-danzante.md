@@ -8,8 +8,8 @@ keywords: []
 description: |-
   Company Danzante Contemporary Dance
   A repertory dance company that moves the body, mind and soul through contemporary dance
-datePublished: '2016-03-20T16:21:36.897Z'
-dateModified: '2016-03-20T16:21:30.988Z'
+datePublished: '2016-03-20T16:22:31.225Z'
+dateModified: '2016-03-20T16:21:40.531Z'
 title: Company Danzante
 author: []
 sourcePath: _posts/2016-03-20-company-danzante.md

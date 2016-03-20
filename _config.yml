@@ -1,7 +1,7 @@
 name: companydanzante
 favicon: null
-layout_spectrum: 0.14932792959734797
-typography_spectrum: 0.38455572770908475
+layout_spectrum: 0.89784
+typography_spectrum: 0.56692
 cta:
   domain: null
   bucket: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
+    - '#2d2d2d'
+    - '#e3e3e3'
+    - '#77b9df'
+    - '#677132'
+    - '#a1ab22'
   brandStrength: 0.5136865742970258
   lightness: 0.6097045929636806
   saturation: 0.9500046139582992

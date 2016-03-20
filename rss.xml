@@ -2,16 +2,17 @@
     <channel>
         <title><![CDATA[companydanzante]]></title>
         <description><![CDATA[companydanzante]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/companydanzante/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 20 Mar 2016 16:16:24 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 20 Mar 2016 16:23:04 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/companydanzante/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Company Danzante]]></title>
-            <description><![CDATA[<article><h1>Company Danzante</h1><p>undefined</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/498245992d109b288a7298d1d36e82a516870995.jpg"></article>]]></description>
-            <link>undefinedcompany-danzante/index.html</link>
+            <description><![CDATA[<article><h1>Company Danzante</h1><p>Company Danzante Contemporary Dance
+A repertory dance company that moves the body, mind and soul through contemporary dance</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/498245992d109b288a7298d1d36e82a516870995.jpg"></article>]]></description>
+            <link>https://thegrid.ai/companydanzante/company-danzante/index.html</link>
             <guid isPermaLink="false">1c8f7dd8-d786-4310-b25b-feb93c25e0e6</guid>
-            <pubDate>Sun, 20 Mar 2016 16:15:59 GMT</pubDate>
+            <pubDate>Sun, 20 Mar 2016 16:21:36 GMT</pubDate>
         </item>
     </channel>
 </rss>
